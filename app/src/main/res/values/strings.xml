@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SubZero</string>
+    <string name="test">TEST</string>
+    <string name="accept">REDEEM</string>
+    <string name="loyalty_points">Loyalty Points</string>
+    <string name="name">Tallie Mc</string>
+    <string name="update_account">Update Account</string>
+    <string name="points">700</string>
+    <string name="age">23</string>
+    <string name="phone">18761234567</string>
+    <string name="account">Account</string>
+    <string name="items">View Items</string>
+    <string name="order">Order Now</string>
+    <string name="redemptions">Redemptions</string>
+    <string name="search">Search</string>
+    <string name="product_description">Product description</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="remove_from_cart">Remove From Cart</string>
+    <string name="view_shopping_cart">View Shopping Cart</string>
+</resources>
